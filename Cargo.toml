@@ -1,0 +1,35 @@
+[workspace]
+members = [
+    "secure_mq_models",
+    "api",
+    "mq",
+    "warehouse",
+    "cli"
+, "user_manager", "logging", "pubsub_mq"]
+[package]
+name = "SecureMq"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "SecureMq"
+path = "src/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+secure_mq_models = { path = "secure_mq_models" }
+api = { path = "api" }
+mq = { path = "mq" }
+warehouse = { path = "warehouse" }
+user_manager = { path = "user_manager" }
+logging = { path = "logging" }
+pubsub_mq = { path = "pubsub_mq" }
+cli = { path = "cli" }
+actix-web = "4"
+
+
+[profile.release]
+panic = 'abort'
+lto = true
+codegen-units = 1

@@ -1,0 +1,993 @@
+[2024-08-02][10:33:38][logging][INFO] Stored package with ID 43af5aaa-7565-475f-8aa7-bbfc12c53c44 at 2024-08-02T08:33:38.621334+00:00
+[2024-08-02][10:33:38][logging][INFO] Fetched package with ID 43af5aaa-7565-475f-8aa7-bbfc12c53c44 from queue test_queue
+[2024-08-02][10:33:38][logging][ERROR] No packages available in the queue
+[2024-08-02][10:33:38][logging][INFO] Creating UserManager
+[2024-08-02][10:33:38][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-02][10:33:38][actix_server::builder][INFO] starting 8 workers
+[2024-08-02][10:33:38][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-02][10:37:19][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-02][10:37:19][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][10:37:19][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][10:37:19][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][10:37:19][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][10:37:19][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][10:37:19][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][10:37:19][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-02][10:37:19][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][10:37:19][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][10:37:19][actix_server::accept][INFO] accept thread stopped
+[2024-08-02][10:40:35][logging][INFO] Stored package with ID b42dda27-244b-442c-9f61-dc05834c2abe at 2024-08-02T08:40:35.763256+00:00
+[2024-08-02][10:40:35][logging][INFO] Fetched package with ID b42dda27-244b-442c-9f61-dc05834c2abe from queue test_queue
+[2024-08-02][10:40:35][logging][ERROR] No packages available in queue test_queue
+[2024-08-02][10:40:35][logging][INFO] Creating UserManager
+[2024-08-02][10:40:35][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-02][10:40:35][actix_server::builder][INFO] starting 8 workers
+[2024-08-02][10:40:35][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-02][10:40:53][logging][INFO] Stored package with ID b088beb2-c73c-4b69-9367-6ad1f766f8ba at 2024-08-02T08:40:53.633921200+00:00
+[2024-08-02][10:40:54][logging][INFO] Stored package with ID a761615e-bd95-4dd0-9321-4e4d13db36a7 at 2024-08-02T08:40:54.649217+00:00
+[2024-08-02][10:40:55][logging][INFO] Stored package with ID bc6f969e-b3a8-4c3f-8a05-2786dbb4dfab at 2024-08-02T08:40:55.582548+00:00
+[2024-08-02][10:40:56][logging][INFO] Stored package with ID 41c1bdf6-43b6-4539-9455-f961c0836721 at 2024-08-02T08:40:56.178596200+00:00
+[2024-08-02][10:40:56][logging][INFO] Stored package with ID e82c0704-8991-45f7-8993-91dae0995a11 at 2024-08-02T08:40:56.738939200+00:00
+[2024-08-02][10:40:57][logging][INFO] Stored package with ID 72e4c080-6848-4e8a-a1f9-42cbe43b149d at 2024-08-02T08:40:57.391756900+00:00
+[2024-08-02][10:40:58][logging][INFO] Stored package with ID 8b8c595e-072c-4960-934b-966530041658 at 2024-08-02T08:40:57.999635500+00:00
+[2024-08-02][10:40:58][logging][INFO] Stored package with ID 06097800-e426-464a-9f43-9015a8b776bf at 2024-08-02T08:40:58.574962900+00:00
+[2024-08-02][10:40:59][logging][INFO] Stored package with ID 0efa0bc1-8627-40fc-aa1e-95726f97a945 at 2024-08-02T08:40:59.443775500+00:00
+[2024-08-02][10:40:59][logging][INFO] Stored package with ID ea355687-7258-4301-b476-584b7e04410e at 2024-08-02T08:40:59.812448300+00:00
+[2024-08-02][10:41:04][logging][INFO] Retrieved all packages, count: 10
+[2024-08-02][10:41:11][logging][INFO] Fetched package with ID b088beb2-c73c-4b69-9367-6ad1f766f8ba from queue test_queue
+[2024-08-02][10:42:14][logging][INFO] Stored package with ID 1c530232-050f-46f4-b9c9-7dafa459662c at 2024-08-02T08:42:14.977405400+00:00
+[2024-08-02][10:42:17][logging][INFO] Stored package with ID b62bce7f-2975-4c19-96e4-4c6f3b2d5baa at 2024-08-02T08:42:17.301742300+00:00
+[2024-08-02][10:42:19][logging][INFO] Stored package with ID 865f7356-855a-40c6-a5b5-3c17ebffd25a at 2024-08-02T08:42:19.767603600+00:00
+[2024-08-02][10:52:42][logging][INFO] Fetched package with ID a761615e-bd95-4dd0-9321-4e4d13db36a7 from queue test_queue
+[2024-08-02][10:52:50][logging][INFO] Fetched package with ID bc6f969e-b3a8-4c3f-8a05-2786dbb4dfab from queue test_queue
+[2024-08-02][11:02:32][logging][INFO] Retrieved all packages, count: 10
+[2024-08-02][11:02:57][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-02][11:02:57][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:02:57][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:02:57][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:02:57][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:02:57][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:02:57][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-02][11:02:57][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:02:57][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:02:57][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:02:57][actix_server::accept][INFO] accept thread stopped
+[2024-08-02][11:04:10][logging][INFO] Stored package with ID 49e7ebe5-ae32-4ce9-92ca-02b7243bbfb0 at 2024-08-02T09:04:10.512416400+00:00
+[2024-08-02][11:04:10][logging][INFO] Fetched package with ID 49e7ebe5-ae32-4ce9-92ca-02b7243bbfb0 from queue test_queue
+[2024-08-02][11:04:10][logging][ERROR] No packages available in queue test_queue
+[2024-08-02][11:04:10][logging][INFO] Creating UserManager
+[2024-08-02][11:04:10][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-02][11:04:10][actix_server::builder][INFO] starting 8 workers
+[2024-08-02][11:04:10][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-02][11:04:16][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][11:04:27][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][11:06:30][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][11:07:37][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-02][11:07:37][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:07:37][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:07:37][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:07:37][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-02][11:07:37][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:07:37][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:07:37][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:07:37][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:07:37][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][11:07:37][actix_server::accept][INFO] accept thread stopped
+[2024-08-02][11:09:16][logging][INFO] Stored package with ID 2c89e033-9587-438a-b42a-851985cea8f4 at 2024-08-02T09:09:16.440985400+00:00
+[2024-08-02][11:09:16][logging][INFO] Fetched package with ID 2c89e033-9587-438a-b42a-851985cea8f4 from queue test_queue
+[2024-08-02][11:09:16][logging][ERROR] No packages available in queue test_queue
+[2024-08-02][11:09:16][logging][INFO] Creating UserManager
+[2024-08-02][11:09:16][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-02][11:09:16][actix_server::builder][INFO] starting 8 workers
+[2024-08-02][11:09:16][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-02][11:09:19][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][11:09:32][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][11:09:43][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][11:09:53][logging][INFO] Stored package with ID 6bedc743-c256-4033-80e4-5c6f189f0d05 at 2024-08-02T09:09:53.801359800+00:00
+[2024-08-02][11:09:54][logging][INFO] Stored package with ID f885c4e9-7899-4460-a821-51a4e957033b at 2024-08-02T09:09:54.090140900+00:00
+[2024-08-02][11:09:54][logging][INFO] Stored package with ID 5aa466b4-ca92-49c1-941e-632a2d65f453 at 2024-08-02T09:09:54.416499400+00:00
+[2024-08-02][11:09:54][logging][INFO] Stored package with ID e1487638-35a5-4c37-96a2-f28bb623f47a at 2024-08-02T09:09:54.809515900+00:00
+[2024-08-02][11:09:55][logging][INFO] Stored package with ID 0a14bda8-9798-4709-b426-b02d5d0ef9b8 at 2024-08-02T09:09:55.115711800+00:00
+[2024-08-02][11:09:57][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:10:01][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:10:08][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:10:30][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:10:35][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:12:12][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:12:18][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:12:19][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:12:50][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:12:51][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:12:52][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:12:53][logging][INFO] Retrieved all packages, count: 5
+[2024-08-02][11:13:32][logging][INFO] Fetched package with ID 6bedc743-c256-4033-80e4-5c6f189f0d05 from queue test_queue3
+[2024-08-02][11:13:36][logging][INFO] Fetched package with ID f885c4e9-7899-4460-a821-51a4e957033b from queue test_queue3
+[2024-08-02][11:13:37][logging][INFO] Fetched package with ID 5aa466b4-ca92-49c1-941e-632a2d65f453 from queue test_queue3
+[2024-08-02][11:13:37][logging][INFO] Fetched package with ID e1487638-35a5-4c37-96a2-f28bb623f47a from queue test_queue3
+[2024-08-02][11:15:16][logging][INFO] Retrieved all packages, count: 1
+[2024-08-02][11:18:06][logging][INFO] Retrieved all packages, count: 1
+[2024-08-02][11:18:40][logging][INFO] Retrieved all packages, count: 1
+[2024-08-02][12:22:18][logging][INFO] Retrieved all packages, count: 1
+[2024-08-02][12:22:32][logging][INFO] Retrieved all packages, count: 1
+[2024-08-02][12:22:52][logging][INFO] Retrieved all packages, count: 1
+[2024-08-02][12:23:11][logging][INFO] Fetched package with ID 0a14bda8-9798-4709-b426-b02d5d0ef9b8 from queue test_queue3
+[2024-08-02][12:23:17][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][12:23:38][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][12:24:01][logging][INFO] Stored package with ID 68d75014-54a2-42aa-9f17-f6ae86eea047 at 2024-08-02T10:24:01.583497300+00:00
+[2024-08-02][12:24:03][logging][INFO] Retrieved all packages, count: 1
+[2024-08-02][12:24:13][logging][INFO] Fetched package with ID 68d75014-54a2-42aa-9f17-f6ae86eea047 from queue test_queue3
+[2024-08-02][12:24:17][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][12:56:38][logging][INFO] Retrieved all packages, count: 0
+[2024-08-02][12:56:49][logging][INFO] Stored package with ID 22479a7e-2d98-4466-b3ea-96bab9c4b433 at 2024-08-02T10:56:49.804548+00:00
+[2024-08-02][12:56:50][logging][INFO] Stored package with ID 0779f6fa-ef09-4775-99c4-3a99c605ab44 at 2024-08-02T10:56:50.587404800+00:00
+[2024-08-02][12:56:51][logging][INFO] Stored package with ID 15528849-038a-4f25-8f9f-a61095978477 at 2024-08-02T10:56:51.255979100+00:00
+[2024-08-02][12:56:51][logging][INFO] Stored package with ID f01e3af4-be3e-4424-9866-ea428f955955 at 2024-08-02T10:56:51.616726900+00:00
+[2024-08-02][12:56:53][logging][INFO] Retrieved all packages, count: 4
+[2024-08-02][12:57:10][logging][INFO] Retrieved all packages, count: 4
+[2024-08-02][12:57:14][logging][INFO] Retrieved all packages, count: 4
+[2024-08-02][12:57:22][logging][INFO] Retrieved all packages, count: 4
+[2024-08-02][12:57:25][logging][INFO] Retrieved all packages, count: 4
+[2024-08-02][12:57:53][logging][INFO] Stored package with ID cb1f51e9-e75e-46ab-989b-e64d59879eb0 at 2024-08-02T10:57:53.464281200+00:00
+[2024-08-02][12:57:54][logging][INFO] Stored package with ID 298f0680-ad19-4530-82f7-6f9325ea7b91 at 2024-08-02T10:57:54.266350300+00:00
+[2024-08-02][12:57:54][logging][INFO] Stored package with ID 770902ed-b09f-4b03-bdb0-4651c79a079e at 2024-08-02T10:57:54.913357100+00:00
+[2024-08-02][12:57:55][logging][INFO] Stored package with ID 76294a75-ec79-44f8-a974-d894ff6a35cd at 2024-08-02T10:57:55.350936700+00:00
+[2024-08-02][12:57:58][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:02:01][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:03:50][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:04:16][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:04:16][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:06:33][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:06:45][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:08:35][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:08:38][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:08:39][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:08:44][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:08:45][logging][INFO] Stored package with ID 2f959de1-ff7a-4989-a33d-5a7e66f4045d at 2024-08-02T11:08:45.525968400+00:00
+[2024-08-02][13:08:46][logging][INFO] Stored package with ID 74f57076-d1ba-40b3-b06b-568d19a271d4 at 2024-08-02T11:08:46.996975+00:00
+[2024-08-02][13:08:48][logging][INFO] Stored package with ID 4d134677-92c5-42ba-b814-e0d9f52e248f at 2024-08-02T11:08:48.603260+00:00
+[2024-08-02][13:08:49][logging][INFO] Retrieved all packages, count: 11
+[2024-08-02][13:08:53][logging][INFO] Stored package with ID 89c0ab27-a2dd-498e-af84-8acba86f122e at 2024-08-02T11:08:53.141538+00:00
+[2024-08-02][13:08:54][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:08:59][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:04][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:06][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:07][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:08][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:09][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:10][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:10][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:10][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:11][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:11][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:09:12][logging][INFO] Stored package with ID ef32b117-cdee-4740-a2c2-7230b33317f5 at 2024-08-02T11:09:12.071705200+00:00
+[2024-08-02][13:09:12][logging][INFO] Retrieved all packages, count: 13
+[2024-08-02][13:09:12][logging][INFO] Retrieved all packages, count: 13
+[2024-08-02][13:09:13][logging][INFO] Retrieved all packages, count: 13
+[2024-08-02][13:09:13][logging][INFO] Stored package with ID 5b9a8e0f-2566-401c-ab0e-6a0f89dfa358 at 2024-08-02T11:09:13.214592300+00:00
+[2024-08-02][13:09:13][logging][INFO] Retrieved all packages, count: 14
+[2024-08-02][13:09:14][logging][INFO] Retrieved all packages, count: 14
+[2024-08-02][13:09:14][logging][INFO] Retrieved all packages, count: 14
+[2024-08-02][13:09:14][logging][INFO] Stored package with ID 0bb9503d-b73d-4b35-90b7-9d230b49ba0e at 2024-08-02T11:09:14.634216300+00:00
+[2024-08-02][13:09:15][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:15][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:16][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:16][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:17][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:17][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:18][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:18][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:19][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:19][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:20][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:20][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:21][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:21][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:22][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:22][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:23][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:23][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:24][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:24][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:25][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:25][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:26][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:26][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:27][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:27][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:28][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:28][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:09:28][logging][INFO] Stored package with ID f7f3cebc-4ef5-4851-99f7-34d6d34f9be5 at 2024-08-02T11:09:28.837031400+00:00
+[2024-08-02][13:09:29][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:29][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:30][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:30][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:31][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:31][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:32][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:32][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:33][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:33][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:34][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:34][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:35][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:35][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:36][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:09:36][logging][INFO] Stored package with ID ba487478-5fc9-413d-8864-eb396fc277b2 at 2024-08-02T11:09:36.244576800+00:00
+[2024-08-02][13:09:36][logging][INFO] Retrieved all packages, count: 17
+[2024-08-02][13:09:37][logging][INFO] Retrieved all packages, count: 17
+[2024-08-02][13:09:37][logging][INFO] Stored package with ID ee31c816-4536-443d-b556-b2fe0de5a33c at 2024-08-02T11:09:37.209341+00:00
+[2024-08-02][13:09:37][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:38][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:38][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:39][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:39][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:40][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:40][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:41][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:41][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:42][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:42][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:43][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:43][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:44][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:44][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:45][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:45][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:46][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:46][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:47][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:47][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:48][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:48][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:49][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:49][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:50][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:50][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:51][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:51][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:52][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:52][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:53][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:53][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:54][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:54][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:55][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:55][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:56][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:56][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:57][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:57][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:58][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:58][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:59][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:09:59][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:10:00][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:10:00][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:10:01][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:10:01][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:10:02][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:10:02][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:10:03][logging][INFO] Retrieved all packages, count: 18
+[2024-08-02][13:10:03][logging][INFO] Fetched package with ID cb1f51e9-e75e-46ab-989b-e64d59879eb0 from queue test2
+[2024-08-02][13:10:03][logging][INFO] Retrieved all packages, count: 17
+[2024-08-02][13:10:04][logging][INFO] Retrieved all packages, count: 17
+[2024-08-02][13:10:04][logging][INFO] Fetched package with ID 298f0680-ad19-4530-82f7-6f9325ea7b91 from queue test2
+[2024-08-02][13:10:04][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:10:05][logging][INFO] Retrieved all packages, count: 16
+[2024-08-02][13:10:05][logging][INFO] Fetched package with ID 770902ed-b09f-4b03-bdb0-4651c79a079e from queue test2
+[2024-08-02][13:10:05][logging][INFO] Retrieved all packages, count: 15
+[2024-08-02][13:10:06][logging][INFO] Fetched package with ID 76294a75-ec79-44f8-a974-d894ff6a35cd from queue test2
+[2024-08-02][13:10:06][logging][INFO] Retrieved all packages, count: 14
+[2024-08-02][13:10:06][logging][INFO] Retrieved all packages, count: 14
+[2024-08-02][13:10:06][logging][INFO] Fetched package with ID 2f959de1-ff7a-4989-a33d-5a7e66f4045d from queue test2
+[2024-08-02][13:10:07][logging][INFO] Retrieved all packages, count: 13
+[2024-08-02][13:10:07][logging][INFO] Fetched package with ID 74f57076-d1ba-40b3-b06b-568d19a271d4 from queue test2
+[2024-08-02][13:10:07][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:10:08][logging][INFO] Retrieved all packages, count: 12
+[2024-08-02][13:10:08][logging][INFO] Fetched package with ID 4d134677-92c5-42ba-b814-e0d9f52e248f from queue test2
+[2024-08-02][13:10:08][logging][INFO] Retrieved all packages, count: 11
+[2024-08-02][13:10:08][logging][INFO] Fetched package with ID 89c0ab27-a2dd-498e-af84-8acba86f122e from queue test2
+[2024-08-02][13:10:09][logging][INFO] Retrieved all packages, count: 10
+[2024-08-02][13:10:09][logging][INFO] Fetched package with ID ef32b117-cdee-4740-a2c2-7230b33317f5 from queue test2
+[2024-08-02][13:10:09][logging][INFO] Retrieved all packages, count: 9
+[2024-08-02][13:10:10][logging][INFO] Retrieved all packages, count: 9
+[2024-08-02][13:10:10][logging][INFO] Fetched package with ID 5b9a8e0f-2566-401c-ab0e-6a0f89dfa358 from queue test2
+[2024-08-02][13:10:10][logging][INFO] Retrieved all packages, count: 8
+[2024-08-02][13:10:10][logging][INFO] Fetched package with ID 0bb9503d-b73d-4b35-90b7-9d230b49ba0e from queue test2
+[2024-08-02][13:10:11][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:11][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:12][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:12][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:13][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:13][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:14][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:14][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:15][logging][INFO] Retrieved all packages, count: 7
+[2024-08-02][13:10:15][logging][INFO] Fetched package with ID f7f3cebc-4ef5-4851-99f7-34d6d34f9be5 from queue test2
+[2024-08-02][13:10:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:10:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:11:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:12:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:13:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:14:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:02][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:03][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:04][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:05][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:06][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:07][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:08][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:09][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:10][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:11][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:12][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:13][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:14][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:15][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:16][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:17][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:18][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:19][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:20][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:21][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:23][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:24][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:25][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:26][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:27][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:28][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:29][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:30][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:31][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:32][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:33][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:34][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:35][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:36][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:37][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:38][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:39][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:40][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:41][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:42][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:43][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:44][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:45][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:46][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:47][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:48][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:49][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:50][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:51][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:52][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:53][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:54][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:55][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:56][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:57][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:58][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:15:59][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:16:00][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:16:01][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:16:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:17:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:18:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:19:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:20:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:21:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:22:22][logging][INFO] Retrieved all packages, count: 6
+[2024-08-02][13:22:48][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-02][13:22:48][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][13:22:48][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][13:22:48][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][13:22:48][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][13:22:48][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][13:22:48][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][13:22:48][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][13:22:48][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][13:22:48][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-02][13:22:48][actix_server::accept][INFO] accept thread stopped
+[2024-08-02][14:17:33][logging][INFO] Initializing PubSub Message Queue
+[2024-08-02][14:17:33][logging][INFO] Stored package with ID 961abf3c-6434-4e70-8105-772b0aab334e at 2024-08-02T12:17:33.227527700+00:00
+[2024-08-02][14:17:33][logging][INFO] Fetched package with ID 961abf3c-6434-4e70-8105-772b0aab334e from queue test_queue
+[2024-08-02][14:17:33][logging][ERROR] No packages available in queue test_queue
+[2024-08-02][14:17:33][logging][INFO] Creating UserManager
+[2024-08-02][14:17:33][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-02][14:17:33][actix_server::builder][INFO] starting 8 workers
+[2024-08-02][14:17:33][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-02][14:17:40][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-02][14:17:40][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
+[2024-08-02][14:17:40][actix_server::accept][INFO] accept thread stopped
