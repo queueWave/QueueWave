@@ -1,6 +1,7 @@
 use serde::{Deserialize, Serialize, Serializer, Deserializer};
 use std::sync::{Arc, Mutex};
 use logging::{log_info};
+use uuid::Uuid;
 #[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct User {
     pub id: String,
@@ -19,9 +20,9 @@ impl UserManager {
         UserManager { users: Arc::new(Mutex::new(Vec::new())) }
     }
 
-    pub fn create_user(&self, id: String, username: String, password: String) -> User {
+    pub fn create_user(&self, username: String, password: String) -> User {
         log_info(&format!("create User: {}", username));
-        let user = User { id, username, password };
+        let user = User { id: Uuid::new_v4().to_string(), username, password };
         let mut users = self.users.lock().unwrap();
         users.push(user.clone());
         user

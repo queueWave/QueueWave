@@ -991,3 +991,125 @@
 [2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
 [2024-08-02][14:17:40][actix_server::worker][INFO] shutting down idle worker
 [2024-08-02][14:17:40][actix_server::accept][INFO] accept thread stopped
+[2024-08-03][18:04:13][logging][INFO] Initializing PubSub Message Queue
+[2024-08-03][18:04:13][logging][INFO] Stored package with ID b3f6e2f2-f838-4e2a-a04e-7878259dc446 at 2024-08-03T16:04:13.621079600+00:00
+[2024-08-03][18:04:13][logging][INFO] Fetched package with ID b3f6e2f2-f838-4e2a-a04e-7878259dc446 from queue test_queue
+[2024-08-03][18:04:13][logging][ERROR] No packages available in queue test_queue
+[2024-08-03][18:04:13][logging][INFO] Creating UserManager
+[2024-08-03][18:04:13][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-03][18:04:13][actix_server::builder][INFO] starting 8 workers
+[2024-08-03][18:04:13][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-03][18:04:22][logging][INFO] Stored package with ID 38ca4d9e-d5b3-444e-9afb-ac350f3b2f09 at 2024-08-03T16:04:22.349803500+00:00
+[2024-08-03][18:04:23][logging][INFO] Stored package with ID e3da2dda-0414-4888-9f4e-44699f5d1636 at 2024-08-03T16:04:23.181313800+00:00
+[2024-08-03][18:04:23][logging][INFO] Stored package with ID 001d3ad1-ed93-454e-836e-ff642c2cc638 at 2024-08-03T16:04:23.987224500+00:00
+[2024-08-03][18:04:24][logging][INFO] Stored package with ID af3259fd-2d8e-4781-92a1-d113474b452f at 2024-08-03T16:04:24.736575+00:00
+[2024-08-03][18:04:25][logging][INFO] Stored package with ID 55382bb6-3cca-4212-be78-5538027b8137 at 2024-08-03T16:04:25.858561200+00:00
+[2024-08-03][19:37:58][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-03][19:37:58][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-03][19:37:58][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:37:58][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:37:58][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:37:58][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:37:58][actix_server::accept][INFO] accept thread stopped
+[2024-08-03][19:37:58][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:37:58][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:37:58][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:37:58][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:38:45][logging][INFO] Initializing PubSub Message Queue
+[2024-08-03][19:38:45][logging][INFO] Stored package with ID 3c016517-0210-4b67-9afb-c762340c68bf at 2024-08-03T17:38:45.852169600+00:00
+[2024-08-03][19:38:45][logging][INFO] Fetched package with ID 3c016517-0210-4b67-9afb-c762340c68bf from queue test_queue
+[2024-08-03][19:38:45][logging][ERROR] No packages available in queue test_queue
+[2024-08-03][19:38:45][logging][INFO] Creating UserManager
+[2024-08-03][19:38:45][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-03][19:38:45][actix_server::builder][INFO] starting 8 workers
+[2024-08-03][19:38:45][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-03][19:40:38][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-03][19:40:38][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-03][19:40:38][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:40:38][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:40:38][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:40:38][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:40:38][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:40:38][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:40:38][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:40:38][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:40:38][actix_server::accept][INFO] accept thread stopped
+[2024-08-03][19:40:44][logging][INFO] Initializing PubSub Message Queue
+[2024-08-03][19:40:44][logging][INFO] Stored package with ID 31878846-5a24-4911-b78e-80285a4c1c03 at 2024-08-03T17:40:44.272400300+00:00
+[2024-08-03][19:40:44][logging][INFO] Fetched package with ID 31878846-5a24-4911-b78e-80285a4c1c03 from queue test_queue
+[2024-08-03][19:40:44][logging][ERROR] No packages available in queue test_queue
+[2024-08-03][19:40:44][logging][INFO] Creating UserManager
+[2024-08-03][19:40:44][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-03][19:40:44][actix_server::builder][INFO] starting 8 workers
+[2024-08-03][19:40:44][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-03][19:42:00][logging][INFO] Stored package with ID 9cece26d-494f-4beb-a9f6-94fbe903b0e5 at 2024-08-03T17:42:00.792233600+00:00
+[2024-08-03][19:42:17][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-03][19:42:17][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:42:17][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:42:17][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-03][19:42:17][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:42:17][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:42:17][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:42:17][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:42:17][actix_server::worker][INFO] force shutdown worker, closing 1 connections
+[2024-08-03][19:42:17][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:42:17][actix_server::accept][INFO] accept thread stopped
+[2024-08-03][19:42:26][logging][INFO] Initializing PubSub Message Queue
+[2024-08-03][19:42:26][logging][INFO] Stored package with ID d124ad46-152a-4d1f-ab11-ca6ec664a8a2 at 2024-08-03T17:42:26.176416+00:00
+[2024-08-03][19:42:26][logging][INFO] Fetched package with ID d124ad46-152a-4d1f-ab11-ca6ec664a8a2 from queue test_queue
+[2024-08-03][19:42:26][logging][ERROR] No packages available in queue test_queue
+[2024-08-03][19:42:26][logging][INFO] Creating UserManager
+[2024-08-03][19:42:26][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-03][19:42:26][actix_server::builder][INFO] starting 8 workers
+[2024-08-03][19:42:26][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-03][19:43:16][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-03][19:43:16][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-03][19:43:16][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:43:16][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:43:16][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:43:16][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:43:16][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:43:16][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:43:16][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:43:16][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:43:16][actix_server::accept][INFO] accept thread stopped
+[2024-08-03][19:43:22][logging][INFO] Initializing PubSub Message Queue
+[2024-08-03][19:43:22][logging][INFO] Stored package with ID 7b4da107-b4ae-4bfa-93c2-7c6352950353 at 2024-08-03T17:43:22.197071300+00:00
+[2024-08-03][19:43:22][logging][INFO] Fetched package with ID 7b4da107-b4ae-4bfa-93c2-7c6352950353 from queue test_queue
+[2024-08-03][19:43:22][logging][ERROR] No packages available in queue test_queue
+[2024-08-03][19:43:22][logging][INFO] Creating UserManager
+[2024-08-03][19:43:22][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-03][19:43:22][actix_server::builder][INFO] starting 8 workers
+[2024-08-03][19:43:22][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-03][19:46:20][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-03][19:46:20][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:46:20][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-03][19:46:20][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:46:20][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:46:20][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:46:20][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:46:20][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:46:20][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:46:20][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][19:46:20][actix_server::accept][INFO] accept thread stopped
+[2024-08-03][19:53:00][logging][INFO] Initializing PubSub Message Queue
+[2024-08-03][19:53:00][logging][INFO] Stored package with ID de37d15c-08c7-45ab-93c9-f7fbef32a2b6 at 2024-08-03T17:53:00.924167300+00:00
+[2024-08-03][19:53:00][logging][INFO] Fetched package with ID de37d15c-08c7-45ab-93c9-f7fbef32a2b6 from queue test_queue
+[2024-08-03][19:53:00][logging][ERROR] No packages available in queue test_queue
+[2024-08-03][19:53:00][logging][INFO] Creating UserManager
+[2024-08-03][19:53:00][logging][INFO] Server starts on 0.0.0.0:8080
+[2024-08-03][19:53:00][actix_server::builder][INFO] starting 8 workers
+[2024-08-03][19:53:00][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
+[2024-08-03][19:53:19][logging][INFO] create User: steffen
+[2024-08-03][19:54:02][logging][INFO] logging in User: steffen
+[2024-08-03][20:45:47][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-03][20:45:47][actix_server::accept][DEBUG] paused accepting connections on 0.0.0.0:8080
+[2024-08-03][20:45:47][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][20:45:47][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][20:45:47][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][20:45:47][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][20:45:47][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][20:45:47][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][20:45:47][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][20:45:47][actix_server::worker][INFO] shutting down idle worker
+[2024-08-03][20:45:47][actix_server::accept][INFO] accept thread stopped

@@ -2,12 +2,12 @@
     <v-app>
       <HeaderComponent />
       <v-main>
-        <v-container fluid>
-          <v-row>
-            <v-col cols="2">
+        <v-container fluid class="dashboard-container">
+          <v-row no-gutters>
+            <v-col cols="2" class="sidebar">
               <SidebarComponent />
             </v-col>
-            <v-col cols="10">
+            <v-col  class="content">
               <router-view></router-view>
             </v-col>
           </v-row>
@@ -30,9 +30,25 @@
 </script>
   
 <style scoped>
-  .v-container {
-    display: flex;
-    min-height: 100vh;
+  .dashboard-container {
+    padding: 0;
+    height: calc(100vh - 64px); 
+    width: 100%; 
+    flex-direction: row;
+    width:100%;
+  }
+  
+  .sidebar {
+    background-color: #333;
+    height: 100%;
+    min-height: calc(100vh - 64px); 
+    flex: 0 ; 
+  }
+  
+  .content {
+    padding: 20px;
+    height: 100%;
+    width: 100%;
   }
 </style>
-  ./DashboardPage.vue
+  

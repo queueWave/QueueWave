@@ -39,10 +39,12 @@ pub async fn run_server() -> std::io::Result<()> {
             .app_data(user_manager.clone())
             .service(package_api::add_package)
             .service(package_api::fetch_package)
+            .service(package_api::get_pakaget_by_id)
             .service(storage_api::all_packages)
             .service(storage_api::package_size)
             .service(user_api::create_user)
             .service(user_api::login)
+            .service(user_api::protected)
             .route("/api/hello", web::get().to(hello))
     })
         .bind("0.0.0.0:8080")?

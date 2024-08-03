@@ -17,5 +17,6 @@ user_manager = { path = "../user_manager" }
 logging = { path = "../logging" }
 tokio = "1.39.2"
 pubsub_mq = { path = "../pubsub_mq" }
-
+jsonwebtoken = "9.3.0"
+actix-http = "3.8.0"
 

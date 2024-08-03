@@ -18,6 +18,16 @@ async fn add_package(data: web::Data<Warehouse>, item: web::Json<PackageInput>) 
     data.store_package(mq_message);
     HttpResponse::Ok().json("Package added")
 }
+#[get("api/package/{id}")]
+async fn get_pakaget_by_id(data: web::Data<Warehouse>, id: web::Path<String>) -> impl Responder {
+    let id = id.into_inner();
+    if let Some(package_info) = data.getPackagetByID(&id) {
+        HttpResponse::Ok().json(package_info)
+    } else {
+        HttpResponse::NotFound().json("Package not found")
+    }
+}
+
 
 #[get("api/fetch_package/{queue}")]
 async fn fetch_package(data: web::Data<Warehouse>, queue: web::Path<String>) -> impl Responder {

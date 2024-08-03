@@ -35,6 +35,11 @@ impl Warehouse {
         log_info(&format!("Stored package with ID {} at {}", id, received));
     }
 
+    pub fn getPackagetByID(&self, id: &str) -> Option<PackageInfo> {
+        let packages = self.packages.lock().unwrap();
+        packages.iter().find(|&p| p.id == id).cloned()
+    }
+
     pub fn fetch_package(&self, queue: &str) -> Option<PackageInfo> {
         let mut packages = self.packages.lock().unwrap();
         if let Some(position) = packages.iter().position(|p| match &p.message {
