@@ -2,7 +2,7 @@ use log::{info, warn, error, debug};
 use fern::Dispatch;
 use chrono::Local;
 
-pub fn init_logging() -> Result<(), Box<dyn std::error::Error>> {
+pub fn init() -> Result<(), Box<dyn std::error::Error>> {
     // Log to stderr
     let console_config = Dispatch::new()
         .format(|out, message, record| {

@@ -1,32 +1,29 @@
 [workspace]
 members = [
-    "secure_mq_models",
-    "api",
-    "mq",
-    "warehouse",
-    "cli"
-, "user_manager", "logging", "pubsub_mq"]
+"user_manager", "logging", "data_lib", "api", "amq_lib"]
 [package]
-name = "SecureMQ"
+name = "QueueWave"
 version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "SecureMQ"
+name = "QueueWave"
 path = "src/main.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-secure_mq_models = { path = "secure_mq_models" }
-api = { path = "api" }
-mq = { path = "mq" }
-warehouse = { path = "warehouse" }
 user_manager = { path = "user_manager" }
 logging = { path = "logging" }
-pubsub_mq = { path = "pubsub_mq" }
-cli = { path = "cli" }
+data_lib = { path = "data_lib" }
+api = { path = "api" }
+amq_lib = { path = "amq_lib" }
+
+
 actix-web = "4"
+tokio = "1.39.2"
+
+
 
 
 [profile.release]

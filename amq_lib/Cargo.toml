@@ -1,13 +1,13 @@
 [package]
-name = "api"
+name = "amq_lib"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 logging = { path = "../logging" }
-actix-web = "4.0"
 tokio = { version = "1", features = ["full"] }
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
-log = "0.4"
 data_lib = { path = "../data_lib" }
+async-trait = "0.1.81"
+lazy_static = "1.5.0"
+serde = { version = "1.0.204", features = ["derive"] }
+serde_json = "1.0.122"

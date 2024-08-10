@@ -1,45 +1,20 @@
-use api::run_server;
-use mq::init_mq;
-use user_manager::init_usermanager;
-use warehouse::store::Warehouse;
-use warehouse::package::{MQMessage, EncryptedMessage, SenderInfo, Package, PackageInfo};
-use cli::init_cli;
-use logging::{init_logging, log_info, log_error};
-use pubsub_mq::init_pubsub;
+use std::sync::Arc;
+use user_manager;
+use logging;
+use data_lib;
+use api;
+use amq_lib;
+use data_lib::storaget;
 
 #[actix_web::main]
-async fn main() -> std::io::Result<()> {
-    init_cli();
-    init_mq();
-    init_usermanager();
-    init_logging().expect("Failed to initialize logging");
-    init_pubsub();
+async fn main() {
+    logging::init();
+    user_manager::init();
+    let storaget = data_lib::init();
+    let storaget_clone = Arc::clone(&storaget);
 
-    let warehouse = Warehouse::new();
+    let api_future = api::init(storaget);
+    let amq_future = amq_lib::init(storaget_clone);
 
-    // Opret en testpakke
-    let sender_info = SenderInfo {
-        id: "1".into(),
-        token: "token123".into(),
-        sender: "sender1".into(),
-        timestamp: "2024-08-02T12:34:56Z".into(),
-    };
-    let package = Package { data: "This is a test package".into() };
-    let encrypted_message = EncryptedMessage { sender: sender_info, package };
-    let mq_message = MQMessage::SendMessage { queue: "test_queue".into(), message: encrypted_message };
-
-    // Gem pakke
-    warehouse.store_package(mq_message.clone());
-
-    // Hent og print pakke
-    if let Some(fetched_package) = warehouse.fetch_package("test_queue") {
-        println!("Fetched package: {:?}", fetched_package);
-    }
-
-    // Hent næste pakke i køen
-    if let Some(next_package) = warehouse.get_next_package_from_queue("test_queue") {
-        println!("Next package in queue: {:?}", next_package);
-    }
-
-    run_server().await
+    tokio::join!(api_future, amq_future);
 }

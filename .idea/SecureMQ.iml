@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/pubsub_mq/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/user_manager/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/warehouse/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data_lib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/amq_lib/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

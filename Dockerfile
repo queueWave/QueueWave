@@ -24,6 +24,7 @@ WORKDIR /app
 # Copy all files to the build context
 COPY . ./
 
+
 # Build the Rust application
 RUN cargo build --release
 
@@ -40,13 +41,13 @@ WORKDIR /app
 COPY --from=node_builder /app/vue_frontend/dist /app/public
 
 # Copy the compiled Rust binary from the builder
-COPY --from=rust_builder /app/target/release/SecureMq .
+COPY --from=rust_builder /app/target/release/QueueWave .
 
 # Ensure the binary is executable
-RUN chmod +x /app/SecureMq
+RUN chmod +x /app/QueueWave
 
 # Expose port 80
 EXPOSE 80
 
 # Start Nginx and the Rust application
-CMD ["sh", "-c", "/app/SecureMq & nginx -g 'daemon off;'"]
+CMD ["sh", "-c", "/app/QueueWave & nginx -g 'daemon off;'"]
