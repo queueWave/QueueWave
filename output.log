@@ -1638,3 +1638,14 @@
 [2024-08-10][15:03:10][actix_server::builder][INFO] starting 8 workers
 [2024-08-10][15:03:10][actix_server::server][INFO] Actix runtime found; starting in Actix runtime
 [2024-08-10][15:03:11][logging][INFO] Initializing AMQ library
+[2024-08-10][19:49:34][actix_server::server][INFO] SIGINT received; starting forced shutdown
+[2024-08-10][19:49:34][actix_server::worker][INFO] shutting down idle worker
+[2024-08-10][19:49:34][actix_server::worker][INFO] shutting down idle worker
+[2024-08-10][19:49:34][actix_server::worker][INFO] shutting down idle worker
+[2024-08-10][19:49:34][actix_server::worker][INFO] shutting down idle worker
+[2024-08-10][19:49:34][actix_server::worker][INFO] shutting down idle worker
+[2024-08-10][19:49:34][actix_server::worker][INFO] shutting down idle worker
+[2024-08-10][19:49:34][actix_server::worker][INFO] shutting down idle worker
+[2024-08-10][19:49:34][actix_server::worker][INFO] shutting down idle worker
+[2024-08-10][19:49:34][actix_server::accept][DEBUG] paused accepting connections on 127.0.0.1:5000
+[2024-08-10][19:49:34][actix_server::accept][INFO] accept thread stopped
