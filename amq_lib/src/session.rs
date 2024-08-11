@@ -35,7 +35,7 @@ pub async fn handle_session(mut socket: TcpStream, queue_manager: Arc<Storaget>)
                         break;
                     }
                 }
-                match received_message.r#type.as_str() {
+                match received_message.command.as_str() {
                     "publish" => {
                         queue_manager.process_message(&received_message.queue_name, serde_json::to_string(&received_message).unwrap()).await;
                         if let Err(e) = socket.write_all(format!("Message stored: {:?}", received_message).as_bytes()).await {
@@ -47,7 +47,7 @@ pub async fn handle_session(mut socket: TcpStream, queue_manager: Arc<Storaget>)
 
                         let message = queue_manager.get_message(&received_message.queue_name).await;
                         if let Some(message) = message {
-                            if let Err(e) = socket.write_all(format!("Message sent: {:?}", message).as_bytes()).await {
+                            if let Err(e) = socket.write_all(message.as_bytes()).await {
                                 eprintln!("Failed to send response: {}", e);
                                 break;
                             }

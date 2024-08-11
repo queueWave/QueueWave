@@ -47,7 +47,7 @@ COPY --from=rust_builder /app/target/release/QueueWave .
 RUN chmod +x /app/QueueWave
 
 # Expose port 80
-EXPOSE 80
+EXPOSE 80 5000 5672
 
 # Start Nginx and the Rust application
 CMD ["sh", "-c", "/app/QueueWave & nginx -g 'daemon off;'"]

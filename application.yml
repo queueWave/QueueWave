@@ -1,0 +1,10 @@
+database:
+  url: "10.0.0.7:5432/queuewave"
+  username: "queuewave-bot"
+  password: "PfKak63lCOgpw5tcNZfvWV"
+api:
+  host: "127.0.0.1"
+  port: 8080
+amqp:
+  host: "127.0.0.1"
+  port: 5672

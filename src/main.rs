@@ -1,3 +1,4 @@
+
 use std::sync::Arc;
 use user_manager;
 use logging;
@@ -10,7 +11,7 @@ use data_lib::storaget;
 async fn main() {
     logging::init();
     user_manager::init();
-    let storaget = data_lib::init();
+    let storaget = data_lib::init().await;
     let storaget_clone = Arc::clone(&storaget);
 
     let api_future = api::init(storaget);

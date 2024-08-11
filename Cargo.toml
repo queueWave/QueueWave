@@ -1,6 +1,6 @@
 [workspace]
 members = [
-"user_manager", "logging", "data_lib", "api", "amq_lib"]
+"user_manager", "logging", "data_lib", "api", "amq_lib", "config"]
 [package]
 name = "QueueWave"
 version = "0.1.0"
@@ -18,10 +18,12 @@ logging = { path = "logging" }
 data_lib = { path = "data_lib" }
 api = { path = "api" }
 amq_lib = { path = "amq_lib" }
+config = { path = "config" }
 
 
 actix-web = "4"
 tokio = "1.39.2"
+serde = { version = "1.0.204", features = ["derive"] }
 
 
 
