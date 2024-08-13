@@ -35,6 +35,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "actix-cors"
+version = "0.7.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "f9e772b3bcafe335042b5db010ab7c09013dad6eac4915c91d8d50902769f331"
+dependencies = [
+ "actix-utils",
+ "actix-web",
+ "derive_more",
+ "futures-util",
+ "log",
+ "once_cell",
+ "smallvec",
+]
+
+[[package]]
 name = "actix-http"
 version = "3.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -284,6 +299,7 @@ dependencies = [
 name = "api"
 version = "0.1.0"
 dependencies = [
+ "actix-cors",
  "actix-web",
  "config 0.1.0",
  "data_lib",
@@ -292,6 +308,8 @@ dependencies = [
  "serde 1.0.204",
  "serde_json",
  "tokio",
+ "user_manager",
+ "uuid 0.8.2",
 ]
 
 [[package]]
@@ -523,7 +541,7 @@ dependencies = [
  "serde_json",
  "tokio",
  "tokio-postgres",
- "uuid",
+ "uuid 1.10.0",
 ]
 
 [[package]]
@@ -1139,6 +1157,7 @@ dependencies = [
  "bytes",
  "fallible-iterator",
  "postgres-protocol",
+ "uuid 0.8.2",
 ]
 
 [[package]]
@@ -1654,11 +1673,23 @@ dependencies = [
 name = "user_manager"
 version = "0.1.0"
 dependencies = [
+ "chrono",
  "config 0.1.0",
  "logging",
  "serde 1.0.204",
  "serde_json",
- "uuid",
+ "tokio",
+ "tokio-postgres",
+ "uuid 1.10.0",
+]
+
+[[package]]
+name = "uuid"
+version = "0.8.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "bc5cf98d8186244414c848017f0e2676b3fcb46807f6668a97dfe67359a3c4b7"
+dependencies = [
+ "getrandom",
 ]
 
 [[package]]
@@ -1668,7 +1699,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "81dfa00651efa65069b0b6b651f4aaa31ba9e3c3ce0137aaad053604ee7e0314"
 dependencies = [
  "getrandom",
- "serde 1.0.204",
 ]
 
 [[package]]

@@ -21,10 +21,10 @@
       </v-card-actions>
     </v-card>
 </template>
-  
+
 <script>
   import axios from 'axios';
-  
+
   export default {
     name: 'PackageInfoComponent',
     props: {
@@ -44,8 +44,9 @@
     methods: {
       async fetchPackage() {
         try {
-          const response = await axios.get(`http://localhost:8080/api/package/${this.id}`);
+          const response = await axios.get(`127.0.0.1:8080/api/queues/${this.id}/get/messages`);
           this.packageInfo = response.data;
+          console.log('Package:', this.packageInfo);
         } catch (error) {
           console.error('Error fetching package:', error);
           this.packageInfo = null;
@@ -54,11 +55,10 @@
     }
   };
 </script>
-  
+
 <style scoped>
   .v-card {
     max-width: 600px;
     margin: auto;
   }
 </style>
-  

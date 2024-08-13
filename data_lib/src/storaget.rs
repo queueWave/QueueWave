@@ -52,7 +52,7 @@ impl Storaget {
         let sender_user_name = sender.user.unwrap_or_default();
         let sender_service = sender.service.unwrap_or_default();
         let sender_name = sender.name.unwrap_or_default();
-        
+
         let query = "INSERT INTO combined_message (queue_name, type, header_message_id, header_timestamp, header_correlation_id, metadata_retry_count, metadata_ttl, metadata_tags, payload_event_type, payload_data, sender_user_name, sender_service, sender_name) VALUES ($1, 'type', $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)";
         if let Err(e) = self.client.execute(query, &[
             &queue_name,

@@ -12,3 +12,6 @@ serde_json = "1.0"
 log = "0.4"
 data_lib = { path = "../data_lib" }
 config = { path = "../config" }
+user_manager = { path = "../user_manager" }
+uuid = { version = "0.8.2", features = ["v4"] }
+actix-cors = "0.7.0"
